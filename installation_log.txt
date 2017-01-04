@@ -1,0 +1,7 @@
+DOWNLOADING 
+$wget http://mvapich.cse.ohio-state.edu/download/mvapich/mv2/mvapich2-2.2.tar.gz
+
+INSTALLATION TO A LOCAL FOLDER //Check your own cuda paths
+$./configure --prefix=path/to/installation --enable-cuda --with-cuda=/usr/local/cuda --with-libcuda=/usr/local/cuda/lib64/stubs/ --with-libcudart=/usr/local/cuda/lib64/
+$make
+$make install
