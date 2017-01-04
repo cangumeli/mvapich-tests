@@ -1,0 +1,95 @@
+-catch_rsh /opt/gridengine/default/spool/ahtapot-5-1/active_jobs/85316.1/pe_hostfile
+ahtapot-5-1
+ahtapot-5-1
+size: 2  |  Average elapsed time: 0.004759
+size: 2  |  Average elapsed time: 0.007213
+size: 4  |  Average elapsed time: 0.000032
+size: 4  |  Average elapsed time: 0.000048
+size: 8  |  Average elapsed time: 0.000034
+size: 8  |  Average elapsed time: 0.000050
+size: 16  |  Average elapsed time: 0.000038
+size: 16  |  Average elapsed time: 0.000055
+size: 32  |  Average elapsed time: 0.000041
+size: 32  |  Average elapsed time: 0.000060
+size: 64  |  Average elapsed time: 0.000040
+size: 64  |  Average elapsed time: 0.000059
+size: 128  |  Average elapsed time: 0.000034
+size: 128  |  Average elapsed time: 0.000049
+size: 256  |  Average elapsed time: 0.000037
+size: 256  |  Average elapsed time: 0.000053
+size: 512  |  Average elapsed time: 0.000037
+size: 512  |  Average elapsed time: 0.000052
+size: 1024  |  Average elapsed time: 0.000037
+size: 1024  |  Average elapsed time: 0.000052
+size: 2048  |  Average elapsed time: 0.000038
+size: 2048  |  Average elapsed time: 0.000053
+size: 4096  |  Average elapsed time: 0.000053
+size: 4096  |  Average elapsed time: 0.000077
+size: 8192  |  Average elapsed time: 0.000047
+size: 8192  |  Average elapsed time: 0.000071
+size: 16384  |  Average elapsed time: 0.000048
+size: 16384  |  Average elapsed time: 0.000074
+size: 32768  |  Average elapsed time: 0.000049
+size: 32768  |  Average elapsed time: 0.000084
+size: 65536  |  Average elapsed time: 0.000053
+size: 65536  |  Average elapsed time: 0.000102
+size: 131072  |  Average elapsed time: 0.000060
+size: 131072  |  Average elapsed time: 0.000140
+size: 262144  |  Average elapsed time: 0.000080
+size: 262144  |  Average elapsed time: 0.000229
+size: 524288  |  Average elapsed time: 0.000266
+size: 524288  |  Average elapsed time: 0.000429
+size: 1048576  |  Average elapsed time: 0.000649
+size: 1048576  |  Average elapsed time: 0.000809
+size: 2097152  |  Average elapsed time: 0.001422
+size: 2097152  |  Average elapsed time: 0.001575
+size: 4194304  |  Average elapsed time: 0.002977
+size: 4194304  |  Average elapsed time: 0.003131
+Benchmark is finalized
+Now let's forget the gpu
+
+size: 2                |  Average elapsed time: 0.000050 General elapsed time 0.000148
+size: 2                |  Average elapsed time: 0.000067 General elapsed time 0.002166
+size: 4                |  Average elapsed time: 0.000031 General elapsed time 0.000139
+size: 4                |  Average elapsed time: 0.000044 General elapsed time 0.000053
+size: 8                |  Average elapsed time: 0.000032 General elapsed time 0.000143
+size: 8                |  Average elapsed time: 0.000047 General elapsed time 0.000056
+size: 16                |  Average elapsed time: 0.000031 General elapsed time 0.000298
+size: 16                |  Average elapsed time: 0.000046 General elapsed time 0.000214
+size: 32                |  Average elapsed time: 0.000032 General elapsed time 0.000136
+size: 32                |  Average elapsed time: 0.000046 General elapsed time 0.000050
+size: 64                |  Average elapsed time: 0.000029 General elapsed time 0.000154
+size: 64                |  Average elapsed time: 0.000042 General elapsed time 0.000046
+size: 128                |  Average elapsed time: 0.000030 General elapsed time 0.000137
+size: 128                |  Average elapsed time: 0.000044 General elapsed time 0.000049
+size: 256                |  Average elapsed time: 0.000031 General elapsed time 0.000139
+size: 256                |  Average elapsed time: 0.000046 General elapsed time 0.000050
+size: 512                |  Average elapsed time: 0.000038 General elapsed time 0.000136
+size: 512                |  Average elapsed time: 0.000055 General elapsed time 0.000060
+size: 1024                |  Average elapsed time: 0.000039 General elapsed time 0.000169
+size: 1024                |  Average elapsed time: 0.000060 General elapsed time 0.000064
+size: 2048                |  Average elapsed time: 0.000047 General elapsed time 0.000152
+size: 2048                |  Average elapsed time: 0.000069 General elapsed time 0.000073
+size: 4096                |  Average elapsed time: 0.000059 General elapsed time 0.000163
+size: 4096                |  Average elapsed time: 0.000089 General elapsed time 0.000093
+size: 8192                |  Average elapsed time: 0.000052 General elapsed time 0.000155
+size: 8192                |  Average elapsed time: 0.000085 General elapsed time 0.000089
+size: 16384                |  Average elapsed time: 0.003160 General elapsed time 0.003267
+size: 16384                |  Average elapsed time: 0.003206 General elapsed time 0.003211
+size: 32768                |  Average elapsed time: 0.000145 General elapsed time 0.000251
+size: 32768                |  Average elapsed time: 0.000209 General elapsed time 0.000215
+size: 65536                |  Average elapsed time: 0.000307 General elapsed time 0.000489
+size: 65536                |  Average elapsed time: 0.000422 General elapsed time 0.000429
+size: 131072                |  Average elapsed time: 0.000422 General elapsed time 0.000715
+size: 131072                |  Average elapsed time: 0.000625 General elapsed time 0.000631
+size: 262144                |  Average elapsed time: 0.000794 General elapsed time 0.001576
+size: 262144                |  Average elapsed time: 0.001179 General elapsed time 0.001185
+size: 524288                |  Average elapsed time: 0.002818 General elapsed time 0.003882
+size: 524288                |  Average elapsed time: 0.003544 General elapsed time 0.003684
+size: 1048576                |  Average elapsed time: 0.004355 General elapsed time 0.005813
+size: 1048576                |  Average elapsed time: 0.005794 General elapsed time 0.005932
+size: 2097152                |  Average elapsed time: 0.007549 General elapsed time 0.010315
+size: 2097152                |  Average elapsed time: 0.010485 General elapsed time 0.010627
+size: 4194304                |  Average elapsed time: 0.015437 General elapsed time 0.020823
+size: 4194304                |  Average elapsed time: 0.021274 General elapsed time 0.021476
+Benchmark is finalized
